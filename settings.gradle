@@ -1,0 +1,3 @@
+include ':nxtweathertester'
+include ':app'
+rootProject.name = "NxtWeather"
